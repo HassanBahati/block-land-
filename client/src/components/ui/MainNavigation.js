@@ -4,7 +4,7 @@ const MainNavigation = () => {
         <div class="container justify-content-between">
           <div class="d-flex">
             <a class="navbar-brand" href="#">
-             <img alt="" src=""/>
+             <h4>Argon</h4>
             </a>
             <button
               class="navbar-toggler"
@@ -32,23 +32,17 @@ const MainNavigation = () => {
             </li>
             <li class="nav-item me-3 me-lg-1">
               <a class="nav-link" href="#">
-                Why Edu
+                How it Works
               </a>
             </li>
           </ul>
           <ul class="navbar-nav flex-row">
             <li class="nav-item me-3 me-lg-1">
-              <a class="nav-link btn btn-outline btn-rounded px-4" href="/log-in">
-                Login
-              </a>
-            </li>
-            <li class="nav-item me-3 me-lg-1">
               <a
-                class="nav-link btn btn-warning btn-rounded px-4"
+                class="nav-link btn btn-danger btn-rounded  text-white px-4"
                 href="#"
-                style={{ backgroundColor: "#0072A1", color: "white" }}
               >
-                Enroll
+                Get Started
               </a>
             </li>
           </ul>

@@ -3,9 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import 'mdbreact/dist/css/mdb.css'
-import 'mdbreact/dist/mdbreact.js'
-
+import 'mdb-react-ui-kit/dist/css/mdb.min.css'
+import 'mdb-react-ui-kit/dist/mdb-react-ui-kit'
 
 ReactDOM.render(
   <React.StrictMode>
