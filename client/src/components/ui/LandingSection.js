@@ -9,9 +9,10 @@ const LandingSection = (props) => {
         <div class="mask" style={{backgroundColor:" rgba(0, 0, 0, 0.6);"}}>
           <div class="d-flex justify-content-center align-items-center h-100">
             <div class="text-white">
-              <h1 class="mb-3 text-black">Kick Start Your Career In Tech.</h1>
-              <h4 class="mb-3 text-black">Outbox EDU leverages boot camps<br/> to train individuals with limited or no experience in software development.</h4>
-              <a class="btn  btn-lg btn-rounded" href="#!" role="button" style={{ backgroundColor: "#0072A1", color: "white"}}>try edu for free</a>
+              <h1 class="mb-3">Your Land Secured on a BlockChain</h1>
+              <h4 class="mb-3">Simple. Secure. Safe.</h4>
+              <p class="mb-3">We leverage BlockChain Technology to decentralize land ownership to overcome fraud and ease transfer of properties of one owner to another.</p>
+              <a class="btn  btn-danger btn-lg btn-rounded" href="#!" role="button" >get Started</a>
             </div>
           </div>
         </div>
