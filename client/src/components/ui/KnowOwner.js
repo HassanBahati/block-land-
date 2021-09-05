@@ -10,7 +10,9 @@ const KnowOwner = () => {
             owners onto a BlockChain network thereby overcoming fraud.{" "}
           </p>
         </div>
-        <div className="col-lg"></div>
+        <div className="col-lg">
+            <img className="img-fluid" alt="land_owner" src="https://res.cloudinary.com/devs4devs/image/upload/v1629553370/samples/people/hassan2_rmy3mg.jpg"/>
+        </div>
       </div>
     </div>
   );
