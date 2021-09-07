@@ -6,7 +6,7 @@ const KnowOwner = () => {
           <div>
           <h5>DON'T BE CHEATED</h5>
 
-          <h3>KNow the real Owners</h3>
+          <h3>Know the real Owners</h3>
           <p>
             We affirm real owners and onboard properties attached to their real
             owners onto a BlockChain network thereby overcoming fraud.{" "}
