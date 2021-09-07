@@ -3,7 +3,7 @@ import React from "react";
 function Properties() {
   return (
     <section id="portfolio" class="text-center pt-5">
-      <h3 className="p-4 text-center fw-bold">What I have worked on:</h3>
+      <h3 className="p-4 text-center fw-bold">Our Affordable Well planned properties in condusive environments:</h3>
       <div>
         <div className="row">
           <div className="col">
@@ -14,7 +14,7 @@ function Properties() {
               alt=""
             />
             <br />
-            <a href="https://hassanbahati.netlify.app/">view site</a>
+            <a href="https://hassanbahati.netlify.app/">view property</a>
           </div>
           <div className="col">
             <img
@@ -24,7 +24,7 @@ function Properties() {
               alt=""
             />
             <br />
-            <a href="https://hellentrendys.herokuapp.com/">view site</a>
+            <a href="https://hellentrendys.herokuapp.com/">view property</a>
           </div>
           <div className="col">
             <img
@@ -34,7 +34,7 @@ function Properties() {
               alt=""
             />
             <br />
-            <a href="https://radiantfarmug.com/">view site</a>
+            <a href="https://radiantfarmug.com/">view property</a>
           </div>
         </div>
 
@@ -47,7 +47,7 @@ function Properties() {
               alt=""
             />
             <br />
-            <a href="https://chepers.chepersug.com/">view site</a>
+            <a href="https://chepers.chepersug.com/">view property</a>
           </div>
 
           <div className="col">
@@ -58,7 +58,7 @@ function Properties() {
               alt=""
             />
             <br />
-            <a href="https://acetic-tunes.netlify.app/">view site</a>
+            <a href="https://acetic-tunes.netlify.app/">view property</a>
           </div>
 
           <div className="col">
@@ -69,7 +69,7 @@ function Properties() {
               alt=""
             />
             <br />
-            <a href="https://dev-power-room.netlify.app/">view site</a>
+            <a href="https://dev-power-room.netlify.app/">view property</a>
           </div>
         </div>
 
@@ -82,7 +82,7 @@ function Properties() {
               alt=""
             />
             <br />
-            <a href="https://ntende-finance-v1.netlify.app/">view site</a>
+            <a href="https://ntende-finance-v1.netlify.app/">view property</a>
           </div>
 
           <div className="col">
@@ -93,7 +93,7 @@ function Properties() {
               alt=""
             />
             <br />
-            <a href="https://safe-courie.netlify.app/">view site</a>
+            <a href="https://safe-courie.netlify.app/">view property</a>
           </div>
 
           <div className="col">
@@ -104,7 +104,7 @@ function Properties() {
               alt=""
             />
             <br />
-            <a href="https://outbox-code-challenge.netlify.app/">view site</a>
+            <a href="https://outbox-code-challenge.netlify.app/">view property</a>
           </div>
         </div>
       </div>
