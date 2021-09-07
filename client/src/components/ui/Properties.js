@@ -10,31 +10,31 @@ function Properties() {
             <img
               height="150px"
               width="300px"
-              src="https://res.cloudinary.com/devs4devs/image/upload/v1629559825/samples/people/bahati_hlpaio.png"
+              src="https://images.unsplash.com/photo-1599809275671-b5942cabc7a2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
               alt=""
             />
             <br />
-            <a href="https://hassanbahati.netlify.app/">view property</a>
+            <a href="">view property</a>
           </div>
           <div className="col">
             <img
               height="150px"
               width="300px"
-              src="https://res.cloudinary.com/devs4devs/image/upload/v1629557964/samples/people/hellentrendys_hzstc8.png"
+              src="https://images.unsplash.com/photo-1560184897-ae75f418493e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
               alt=""
             />
             <br />
-            <a href="https://hellentrendys.herokuapp.com/">view property</a>
+            <a href="">view property</a>
           </div>
           <div className="col">
             <img
               height="150px"
               width="300px"
-              src="https://res.cloudinary.com/devs4devs/image/upload/v1629557978/samples/people/radiantfarm_wmqoir.png"
+              src="https://images.unsplash.com/photo-1592595896551-12b371d546d5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
               alt=""
             />
             <br />
-            <a href="https://radiantfarmug.com/">view property</a>
+            <a href="">view property</a>
           </div>
         </div>
 
@@ -43,33 +43,33 @@ function Properties() {
             <img
               height="150px"
               width="300px"
-              src="https://res.cloudinary.com/devs4devs/image/upload/v1629558874/samples/people/chepers_czxoec.png"
+              src="https://images.unsplash.com/photo-1558036117-15d82a90b9b1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
               alt=""
             />
             <br />
-            <a href="https://chepers.chepersug.com/">view property</a>
+            <a href="">view property</a>
           </div>
 
           <div className="col">
             <img
               height="150px"
               width="300px"
-              src="https://res.cloudinary.com/devs4devs/image/upload/v1629558055/samples/people/acetic_Tunes_ftc7bs.png"
+              src="https://images.unsplash.com/photo-1494526585095-c41746248156?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
               alt=""
             />
             <br />
-            <a href="https://acetic-tunes.netlify.app/">view property</a>
+            <a href="">view property</a>
           </div>
 
           <div className="col">
             <img
               height="150px"
               width="300px"
-              src="https://res.cloudinary.com/devs4devs/image/upload/v1629559076/samples/people/powerroom_kjrtlm.png"
+              src="https://images.unsplash.com/photo-1601084881623-cdf9a8ea242c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
               alt=""
             />
             <br />
-            <a href="https://dev-power-room.netlify.app/">view property</a>
+            <a href="h">view property</a>
           </div>
         </div>
 
@@ -78,33 +78,33 @@ function Properties() {
             <img
               height="150px"
               width="300px"
-              src="https://res.cloudinary.com/devs4devs/image/upload/v1629559470/samples/people/ntendefinance_rcrgac.png"
+              src="https://images.unsplash.com/photo-1416331108676-a22ccb276e35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=747&q=80"
               alt=""
             />
             <br />
-            <a href="https://ntende-finance-v1.netlify.app/">view property</a>
+            <a href="">view property</a>
           </div>
 
           <div className="col">
             <img
               height="150px"
               width="300px"
-              src="https://res.cloudinary.com/devs4devs/image/upload/v1629559688/samples/people/safecourier_lcthkz.png"
+              src="https://images.unsplash.com/photo-1592928302636-c83cf1e1c887?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
               alt=""
             />
             <br />
-            <a href="https://safe-courie.netlify.app/">view property</a>
+            <a href="">view property</a>
           </div>
 
           <div className="col">
             <img
               height="150px"
               width="300px"
-              src="https://res.cloudinary.com/devs4devs/image/upload/v1629560181/samples/people/outboxcodechallenge_ofxeg2.png"
+              src="https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
               alt=""
             />
             <br />
-            <a href="https://outbox-code-challenge.netlify.app/">view property</a>
+            <a href="">view property</a>
           </div>
         </div>
       </div>
