@@ -3,7 +3,7 @@ import React from "react";
 function Contact() {
   return (
     <section id="contact" className="bg-black text-white text-center ">
-      <h4 className="p-4">Contact Me</h4>
+      <h4 className="p-4">Contact Us</h4>
       <div className="contactscreen">
         <form class="contactScreenForm bg-danger" style={{ width: "" }}>
           <div class="form-outline mb-4 ">
