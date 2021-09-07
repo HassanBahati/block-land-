@@ -4,7 +4,7 @@ function About() {
   return (
     <div className="container text-center" id="about">
         <h3  className="p-4 text-center fw-bold">
-            Who is Bahati ?
+            How does BlockChain secure your land ??
         </h3>
       <div className="row">
         <div className="col-sm-4">
