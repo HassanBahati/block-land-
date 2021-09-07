@@ -108,7 +108,7 @@ function Properties() {
           </div>
         </div>
       </div>
-      <a className="btn m-5 btn-info" href="https://github.com/HassanBahati">
+      <a className="btn m-5 btn-outline-danger" href="https://github.com/HassanBahati">
         See more
       </a>
     </section>
