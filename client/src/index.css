@@ -7,7 +7,53 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.know_onwer__text{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin: 2rem 2rem; */
 }
+
+.portfolio{
+  display: grid;
+ 
+  grid-template-columns: repeat(3, 1fr);
+ 
+ }
+ 
+ 
+ 
+ 
+ @media (max-width: 1232px) {
+   .portfolio {
+     grid-template-columns: repeat(3, auto);
+   }
+ }
+ 
+ @media (max-width: 950px) {
+   .portfolio{
+     grid-template-columns: repeat(2, auto);
+   }
+ }
+ 
+ @media (max-width: 630px) {
+   .portfolio {
+     grid-template-columns: 1fr;
+   }
+ }
+ 
+ 
+ .contactscreen{
+   width: 100%;
+   height: 60vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+ 
+ .contactScreenForm{
+   width: 380px;
+   padding: 1.5rem;
+   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+   background: #fff;
+ }

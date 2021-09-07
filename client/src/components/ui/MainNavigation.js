@@ -1,10 +1,10 @@
 const MainNavigation = () => {
     return (
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         <div class="container justify-content-between">
           <div class="d-flex">
             <a class="navbar-brand" href="#">
-             <h4>Argon</h4>
+             <h4>Hassan</h4>
             </a>
             <button
               class="navbar-toggler"
