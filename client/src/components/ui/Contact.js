@@ -5,7 +5,7 @@ function Contact() {
     <section id="contact" className="bg-black text-white text-center ">
       <h4 className="p-4">Contact Me</h4>
       <div className="contactscreen">
-        <form class="contactScreenForm bg-info" style={{ width: "" }}>
+        <form class="contactScreenForm bg-danger" style={{ width: "" }}>
           <div class="form-outline mb-4 ">
             <input
               type="email"
